@@ -45,5 +45,5 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 <br><br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarrisGopal" />
 <br><br><br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/user1869kt?theme=dark&font=Marcellus&ext=heatmap)
-<br/>
+
+
