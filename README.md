@@ -22,7 +22,7 @@ Dynamic and innovative person in Full Stack Web Development, I possess a strong 
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)](https://github.com/HarrisGopal)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harrisbg/)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/hero__sir__harris/)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter)]()https://x.com/Harris17843253
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter)]()https://twitter.com/Harris17843253
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/user1869kt/)
 <br>
 # 💻 Tech Stack:
